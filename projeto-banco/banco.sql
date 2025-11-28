@@ -16,4 +16,4 @@ CREATE DATABASE historico(
     data_operacao datetime
 );
 
-INSERT INTO contas SET titular = "caroline suzart", agencia = "123", conta = "321", senha = md5("123"), saldo = 1;
+INSERT INTO contas SET titular = "carolaine suriname", agencia = "123", conta = "321", senha = md5("123"), saldo = 1;
